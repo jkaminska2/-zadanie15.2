@@ -1,1 +1,1 @@
-# -zadanie15.2
+# zadanie15.2
