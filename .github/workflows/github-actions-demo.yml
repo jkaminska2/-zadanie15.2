@@ -30,4 +30,4 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest -v -zadanie15.2/plik1.py
+        pytest
