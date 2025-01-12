@@ -6,4 +6,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: pip install pytest
-      - run: pytest -zadanie15.2
+      - run: pytest plik1.py
+      - run: pytest plik2.py
