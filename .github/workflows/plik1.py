@@ -1,3 +1,4 @@
+import pytest
 def funkcja1(x):
     return x+1
 def test_funkcja1():
