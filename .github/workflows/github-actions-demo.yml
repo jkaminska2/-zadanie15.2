@@ -24,3 +24,4 @@ jobs:
       run: |
         pip install pytest
         pytest plik1.py
+        pytest plik2.py
